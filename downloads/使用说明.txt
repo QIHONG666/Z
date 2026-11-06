@@ -1,0 +1,12 @@
+﻿zfl Windows 独立桌宠
+
+系统：Windows 10/11 64位，.NET Framework 4.8 或更新版本。
+
+双击 zfl.exe 即可运行，无需安装 Python 或 Node.js。
+按住人物拖动；单击挥手，双击跳跃。
+右键人物或托盘图标：暂停走动、调整大小、切换置顶、回到屏幕角落、退出。
+
+如果再次双击启动，程序会找回已有桌宠，避免重复运行。
+设置保存在 %LOCALAPPDATA%\ZflDeskPet\settings.json。
+
+GitHub源码：https://github.com/QIHONG666/Z

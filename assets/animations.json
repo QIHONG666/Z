@@ -1,0 +1,75 @@
+{
+  "name": "zfl",
+  "version": "1.0.1",
+  "cellWidth": 288,
+  "cellHeight": 352,
+  "columns": 8,
+  "states": [
+    {
+      "name": "idle",
+      "row": 0,
+      "count": 6,
+      "durations": [
+        420,
+        160,
+        140,
+        160,
+        160,
+        450
+      ]
+    },
+    {
+      "name": "running-right",
+      "row": 1,
+      "count": 8,
+      "durations": [
+        130,
+        130,
+        130,
+        130,
+        130,
+        130,
+        130,
+        130
+      ]
+    },
+    {
+      "name": "running-left",
+      "row": 2,
+      "count": 8,
+      "durations": [
+        130,
+        130,
+        130,
+        130,
+        130,
+        130,
+        130,
+        130
+      ]
+    },
+    {
+      "name": "waving",
+      "row": 3,
+      "count": 4,
+      "durations": [
+        180,
+        220,
+        280,
+        240
+      ]
+    },
+    {
+      "name": "jumping",
+      "row": 4,
+      "count": 5,
+      "durations": [
+        160,
+        150,
+        180,
+        150,
+        240
+      ]
+    }
+  ]
+}
